@@ -14,13 +14,13 @@ export default function CartItem({ item, value }) {
         />
       </div>
       <div className="col-10 mx-auto col-lg-2">
-        <span className="d-lg-none">Book Name :</span>
+        <span className="d-lg-none">Book Name : </span>
         {title}
       </div>
 
       <div className="col-10 mx-auto col-lg-2">
         <span className="d-lg-none">Price:</span>
-        {price}
+        Rs. {price}
       </div>
       <div className="col-10 mx-auto col-lg-2 my-2 my-lg-0">
         <div className="d-flex justify-content-center">
@@ -34,16 +34,16 @@ export default function CartItem({ item, value }) {
             </span>
           </div>
         </div>
-        {/*  */}
-        <div className="col-10 mx-auto col-lg-2">
-          <div className="cart-icon" onClick={() => removeItem(id)}>
-            <i className="fas fa-trash"></i>
-          </div>
-        </div>
+      </div>
 
-        <div className="col-10 mx-auto col-lg-2">
-          <strong>item total : $ {total}</strong>
+      <div className="col-10 mx-auto col-lg-2">
+        <div className="cart-icon" onClick={() => removeItem(id)}>
+          <i className="fas fa-trash" />
         </div>
+      </div>
+
+      <div className="col-10 mx-auto col-lg-2">
+        <strong>Item Total: Rs. {total}</strong>
       </div>
     </div>
   );
