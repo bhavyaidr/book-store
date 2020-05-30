@@ -15,7 +15,6 @@ body {
 .text-title {
   font-family: "Merriweather", cursive;
   letter-spacing: 0.2rem;
-  text-transform: uppercase;
 }
 
 .text-blue {
@@ -41,6 +40,6 @@ body {
 
 .cart-icon {
   cursor: pointer;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: var(--mainYellow);
 }

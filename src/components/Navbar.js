@@ -17,7 +17,14 @@ export default class Navbar extends Component {
         <ul className="navbar-nav align-items.center">
           <li className="nav-item ml-5">
             <Link to="/" className="nav-link">
-              Products
+              PRODUCTS
+            </Link>
+          </li>
+        </ul>
+        <ul className="navbar-nav align-items.center">
+          <li className="nav-item ml-5">
+            <Link to="/about" className="nav-link">
+              ABOUT
             </Link>
           </li>
         </ul>
@@ -26,7 +33,7 @@ export default class Navbar extends Component {
             <span className="mr-2">
               <i className="fas fa-cart-plus" />
             </span>
-            my-cart
+            MY-CART
           </ButtonContainer>
         </Link>
       </NavWrapper>
