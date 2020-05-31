@@ -1,6 +1,6 @@
 # Book-Store
 
-E-commerce site using React
+E-commerce site using React 
 
 ## Prerequisities
 
@@ -36,4 +36,6 @@ Note: This will install node modules folder in your project
 7. Now, Save and deploy
 
 8. If the application is deployed successfully, you will see a link of Amplify Console, clicking on which you can browse your application
+
+**You can access this Book-Store Application, by using this [https://master.damahbus7l2ut.amplifyapp.com/](https://master.damahbus7l2ut.amplifyapp.com/)**
 
