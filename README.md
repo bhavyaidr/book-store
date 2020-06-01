@@ -10,12 +10,12 @@ npm - 6.14.5
 
 1. Clone the project.
 
-2. Go to the project directory, and run the command ```npm install```
-Note: This will install node modules folder in your project
+2. Go to the project directory, and run the command<br>```npm install```<br>
+**Note: This will install node modules folder in your project**
 
-3. To render Paypal's express check out button we need to install react component using ```npm install --save react-paypal-express-checkout```
+3. To render Paypal's express check out button we need to install react component using <br>```npm install --save react-paypal-express-checkout```
 
-4. To start your application run the command ```npm start```
+4. To start your application run the command <br>```npm start```
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
