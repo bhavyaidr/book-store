@@ -37,5 +37,5 @@ npm - 6.14.5
 
 8. If the application is deployed successfully, you will see a link of Amplify Console, clicking on which you can browse your application
 
-**You can access this Book-Store Application, by using this [https://master.damahbus7l2ut.amplifyapp.com/](https://master.damahbus7l2ut.amplifyapp.com/)**
+**You can access this Book-Store Application, by using this [https://master.damahbus7l2ut.amplifyapp.com/](https://master.damahbus7l2ut.amplifyapp.com/)** or [https://elegant-nobel-669b47.netlify.app/](https://elegant-nobel-669b47.netlify.app/)
 
